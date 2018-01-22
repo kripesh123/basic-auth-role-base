@@ -1,0 +1,35 @@
+.admin-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: orange;
+}
+
+.user-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: green;
+}
+
+.accountant-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: gray;
+}
+
+.receptionist-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: maroon;
+}
+
+.teacher-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: yellow;
+}
+
+.coordinator-message-text {
+	font-style: normal;
+	font-size: 22px;
+	color: blue;
+}
